@@ -1,6 +1,6 @@
-## Menu:
+## Navigation Menu:
 
-Navigation menu with submenu (based on the DoraHacks' website)
+Navigation menu with submenu (based on the DoraHacks' website). Tech stack: React, TypeScirpt, Tailwind. 
 
 ## My design draft in Figma:
 
